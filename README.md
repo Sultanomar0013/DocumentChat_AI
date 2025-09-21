@@ -19,7 +19,7 @@ Here’s a short preview of how it works:
 ---
 
 
-## 🚀 Project
+
 
 Here’s a short preview of the system in action:
 
